@@ -48,8 +48,8 @@ class City:
 city = City("Praha", "Hlavní město Praha", "Česká republika", 1300000, "11000", "2")
 city.print_seznam()
 
-city.set_number_of_citizens(1335084)
-city.set_zip_code("11001")
+city.set_number_of_citizens("česká")
+city.set_zip_code("76843")
 
 print("\nAktualizované údaje:")
 city.print_seznam()
