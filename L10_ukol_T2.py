@@ -48,3 +48,7 @@ kniha.n_cenu(499)
 kniha.n_zanr("Romace")
 kniha.n_rok_vydani(1984)
 print(kniha.z_info())
+
+kniha_info = kniha.z_info()
+with open("DATA/L10_ukol_T2.txt", "w", encoding="utf-8") as file:
+    file.write(kniha_info + "\n")

@@ -41,10 +41,18 @@ class Auto:
 
 auto = Auto("Octavia", 2023, "Škoda", 2.0, "modrá", 660000)
 
+
 print(auto.z_info())
 auto.n_cenu(760000)
 auto.n_model("SuperB")
 auto.n_barvu("Šedá")
 print(auto.z_info())
+
+auto_info = auto.z_info()
+with open("DATA/L10_ukol_T1.txt", "w", encoding="utf-8") as file:
+    file.write(auto_info + "\n")
+
+
+
 
 

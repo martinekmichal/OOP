@@ -42,3 +42,7 @@ print(stadion.z_info())
 stadion.n_nazev("Sigma stadion")
 print()
 print(stadion.z_info())
+
+stadion_info = stadion.z_info()
+with open("DATA/L10_ukol_T3.txt", "w", encoding="utf-8") as file:
+    file.write(stadion_info + "\n")
