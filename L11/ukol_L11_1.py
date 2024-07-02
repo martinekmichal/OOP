@@ -8,6 +8,7 @@ class Tvar:
         with open(nazev_souboru, "wb") as soubor:
             pickle.dump(self, soubor)
 
+    @staticmethod
     def nacti(nazev_souboru):
         with open(nazev_souboru, "rb") as soubor:
             return pickle.load(soubor)
