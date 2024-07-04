@@ -6,7 +6,7 @@ class City:
     @property
     def country(self):
         return self.__country
-    
+
     @country.setter
     def country(self,value):
         self.__country = value
