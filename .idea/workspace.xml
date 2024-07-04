@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d411f04-0394-4ef8-a8a0-b94f6219ee02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/L12/functor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decoratory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decoratory2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L11/fraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L12/property.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +47,17 @@
     "Python.L10_ukol_T3.executor": "Run",
     "Python.L11_ukol_XX.executor": "Run",
     "Python.Vehicle.executor": "Run",
+    "Python.calcurator.executor": "Run",
     "Python.city.executor": "Run",
     "Python.city_lektor.executor": "Run",
     "Python.cityt3.executor": "Run",
     "Python.decoratory.executor": "Run",
     "Python.decoratory2.executor": "Run",
+    "Python.fraction.executor": "Run",
     "Python.functor.executor": "Run",
     "Python.human.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.property.executor": "Run",
     "Python.ukol_L11_1.executor": "Run",
     "Python.ukol_L11_2.executor": "Run",
     "Python.zlomek.executor": "Run",
