@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d411f04-0394-4ef8-a8a0-b94f6219ee02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/L12/DATOVE_STRUKTURY/priority_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L12/L12_ukol_T1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/L12_ukol_T1.py" beforeDir="false" afterPath="$PROJECT_DIR$/L12/L12_ukol_T1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,34 +39,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.L10_ukol_T1.executor": "Run",
-    "Python.L10_ukol_T2.executor": "Run",
-    "Python.L10_ukol_T3.executor": "Run",
-    "Python.L11_ukol_XX.executor": "Run",
-    "Python.Vehicle.executor": "Run",
-    "Python.calcurator.executor": "Run",
-    "Python.city.executor": "Run",
-    "Python.city_lektor.executor": "Run",
-    "Python.cityt3.executor": "Run",
-    "Python.decoratory.executor": "Run",
-    "Python.decoratory2.executor": "Run",
-    "Python.fraction.executor": "Run",
-    "Python.functor.executor": "Run",
-    "Python.human.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.property.executor": "Run",
-    "Python.queue.executor": "Run",
-    "Python.stack.executor": "Run",
-    "Python.ukol_L11_1.executor": "Run",
-    "Python.ukol_L11_2.executor": "Run",
-    "Python.zlomek.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.L10_ukol_T1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L10_ukol_T2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L10_ukol_T3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L11_ukol_XX.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L12_ukol_T1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vehicle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcurator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city_lektor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cityt3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decoratory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decoratory2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.human.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property.executor&quot;: &quot;Run&quot;,
+    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ukol_L11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ukol_L11_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zlomek.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\H\Documents\GitHub\OOP\OOP\OOP\DATA" />
@@ -75,6 +75,31 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="L12_ukol_T1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L12/L12_ukol_T1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP" />
       <option name="ENV_FILES" value="" />
@@ -119,6 +144,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.L12_ukol_T1" />
+      <item itemvalue="Python.stack" />
+      <item itemvalue="Python.Vehicle" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.stack" />
